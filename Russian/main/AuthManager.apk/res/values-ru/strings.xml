@@ -82,6 +82,8 @@
     <string name="HIPS_Perm_operator_get_phonenumbner_Desc">Запрос номера телефона у оператора связи для входа в систему</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Hint">Если не удалось войти в систему одним нажатием, вернитесь на страницу входа и повторите попытку</string>
     <string name="HIPS_Perm_operator_get_phonenumbner_Message">Приложение пытается запросить ваш номер телефона у оператора связи для входа в систему. Разрешить?</string>
+    <string name="HIPS_Perm_operator_read_note">Доступ к заметкам</string>
+    <string name="HIPS_Perm_operator_read_record">Доступ к диктофону</string>
     <string name="HIPS_Perm_operator_shake">Данные акселерометра</string>
     <string name="HIPS_Perm_operator_shake_Desc">Доступ к данным акселерометра для отслеживания ориентации и движения (например, тряски, наклона и вращения)</string>
     <string name="HIPS_Perm_operator_wall_paper">Службы динамических обоев</string>
@@ -156,6 +158,8 @@
     <string name="cetus_invisible_mode_notice_location">Режим инкогнито: геолокация недоступна</string>
     <string name="cetus_invisible_mode_notice_tip">Нажмите, чтобы отключить режим инкогнито в настройках</string>
     <string name="clearable_edittext_clear_description">Очистить</string>
+    <string name="clip_notification_close_summary">Отключить уведомление, при обращении к буферу обмена?</string>
+    <string name="clip_notification_close_title">Отключение уведомления о доступе к буферу обмена</string>
     <string name="clipboard_ai_allow_once">Приложению %1$s был автоматически разрешён доступ к буферу обмена</string>
     <string name="clipboard_ai_allow_tip">Приложению %1$s разрешено чтение %2$s из буфера обмена</string>
     <string name="clipboard_may_sensitive">Может содержаться конфиденциальная информация</string>
@@ -300,6 +304,7 @@
     <string name="not_set">Не задано</string>
     <string name="notification_click_tip">Подробности</string>
     <string name="ok">OК</string>
+    <string name="overlay_read_clip_toast">\"%1$s\" получает доступ к буферу обмена</string>
     <string name="perm_action_allow">Разрешить</string>
     <string name="perm_action_deny">Запретить</string>
     <string name="perm_educate_post_notification">Уведомления могут сопровождаться звуком и вибрацией при появлении в шторке уведомлений и на значках приложений на рабочем столе. Параметры уведомлений можно изменить в Настройках.</string>
@@ -315,14 +320,17 @@
     <string name="permdesc_location_background">Разрешить %1$s использовать геолокацию в фоновом режиме?</string>
     <string name="permdesc_microphone">Разрешить %1$s использовать микрофон для записи аудио?</string>
     <string name="permdesc_nearby_devices">Разрешить %1$s поиск устройств поблизости и подключение к ним?</string>
+    <string name="permdesc_nearby_wifi_devices">Разрешить подключаться к близлежащим устройствам через Wi-Fi, транслировать их и определять их относительное местоположение.</string>
     <string name="permdesc_post_notification">Разрешить %1$s отправку уведомлений?</string>
     <string name="permdesc_process_outgoing_call">Разрешить %1$s принимать и завершать вызовы?</string>
     <string name="permdesc_read_calendar">Разрешить %1$s доступ к мероприятиям календаря?</string>
     <string name="permdesc_read_call_log">Разрешить %1$s доступ к журналу вызовов?</string>
     <string name="permdesc_read_contacts">Разрешить %1$s доступ к контактам?</string>
     <string name="permdesc_read_mms">Разрешить %1$s чтение MMS?</string>
+    <string name="permdesc_read_note">Разрешить %1$s доступ к заметкам?</string>
     <string name="permdesc_read_phone_numbers">Разрешить %1$s чтение номеров телефонов?</string>
     <string name="permdesc_read_phone_state">Разрешить %1$s доступ к состоянию устройства и мобильной сети?</string>
+    <string name="permdesc_read_record">Разрешить %1$s доступ к диктофону?</string>
     <string name="permdesc_read_sms">Разрешить %1$s чтение и отправку SMS или MMS?</string>
     <string name="permdesc_read_storage">Разрешить %1$s доступ к файлам на устройстве?</string>
     <string name="permdesc_receive_sms">Разрешить %1$s получать SMS и MMS?</string>
