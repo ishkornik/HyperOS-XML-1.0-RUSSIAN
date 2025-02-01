@@ -10,4 +10,4 @@ Based on a work at http://miui.com
 For more info visit:
 - [Multilang MIUI Support](http://xiaomi.eu) 
 
-Translation XML checker http://translators.xiaomi.eu/XML_MIUI14-Russian-ru.html
+Translation [XML checker](https://translators.xiaomi.eu/XML_MIUI15-Russian-ru.html)
